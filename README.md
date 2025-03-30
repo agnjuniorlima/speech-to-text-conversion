@@ -28,6 +28,30 @@ Para detalhes sobre o processo de fine-tuning, acesse o relatório completo:
    - Para utilizar o modelo localmente, baixe os pesos treinados:  
    [📥 Download do modelo treinado](https://drive.google.com/file/d/13ACPHxbHNp4P2cWNV13UMULSmk0S9H91/view?usp=sharing)
 
+## 🧪 Testando o Modelo
+
+Você pode testar o modelo treinado utilizando a interface Gradio inclusa no arquivo `test_model.py`.
+
+### Como rodar o teste:
+
+1. **Baixe o arquivo de teste:**
+   - [📥 test_model.py](test_model.py)
+
+2. **Instale as dependências:**
+   - Crie um ambiente virtual e instale as dependências:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+3. **Execute o script de teste:**
+   - Execute o arquivo `test_model.py`:
+     ```bash
+     python test_model.py
+     ```
+
+4. **Uso da Interface:**
+   - A interface Gradio será aberta no seu navegador. Você pode carregar um arquivo de áudio e o modelo irá transcrever a fala em texto em tempo real.
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Linguagem:** Python 3.12.2
