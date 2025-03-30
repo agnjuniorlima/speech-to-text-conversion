@@ -1,4 +1,4 @@
-# Speech-to-Text Conversion
+# Fine-tuning do Whisper para Reconhecimento de Fala em Português-BR
 
 Este repositório apresenta um modelo de reconhecimento automático de fala (ASR) em Português do Brasil, baseado no modelo Whisper Small da OpenAI. O fine-tuning foi realizado utilizando a biblioteca `transformers` da Hugging Face.
 
