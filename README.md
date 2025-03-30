@@ -11,3 +11,5 @@ Adicione em seu Colab
 Instale as dependências presentes nas celulas.
 
 Link da aplicação no [Hugging Face Aqui](https://huggingface.co/RodrigoFardin/whisper-small-pt-br)
+
+Download do arquivo treinado [Aqui ](https://drive.google.com/file/d/13ACPHxbHNp4P2cWNV13UMULSmk0S9H91/view?usp=sharing)
