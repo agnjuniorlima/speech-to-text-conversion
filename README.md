@@ -62,11 +62,13 @@ Você pode testar o modelo treinado utilizando a interface Gradio inclusa no arq
   - `huggingface_hub==0.29.3`
   - `torch==2.6.0`
   - `transformers==4.50.0`
-- Ferramentas Utilizadas
-- **Whisper** – Modelo de reconhecimento de fala desenvolvido pela OpenAI, utilizado para o fine-tuning e transcrição de áudio.
-- **Transformers** – Biblioteca da Hugging Face para trabalhar com modelos de NLP e ASR, utilizada para o fine-tuning do modelo Whisper.
-- **Hugging Face** – Plataforma para hospedagem e compartilhamento de modelos de aprendizado de máquina.
-- **Deep Learning** – Técnicas de aprendizado profundo aplicadas para o treinamento e ajuste do modelo.
+
+- **Ferramentas Utilizadas:**
+   - **Whisper** – Modelo de reconhecimento de fala desenvolvido pela OpenAI, utilizado para o fine-tuning e transcrição de áudio.
+   - **Transformers** – Biblioteca da Hugging Face para trabalhar com modelos de NLP e ASR, utilizada para o fine-tuning do modelo Whisper.
+   - **Hugging Face** – Plataforma para hospedagem e compartilhamento de modelos de aprendizado de máquina.
+   - **Deep Learning** – Técnicas de aprendizado profundo aplicadas para o treinamento e ajuste do modelo.
+
 ## 📬 Contato
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
