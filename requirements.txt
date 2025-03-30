@@ -1,0 +1,6 @@
+datasets==3.4.1
+evaluate==0.4.3
+gradio==5.23.1
+huggingface_hub==0.29.3
+torch==2.6.0
+transformers==4.50.0
