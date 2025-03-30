@@ -52,6 +52,12 @@ Você pode testar o modelo treinado utilizando a interface Gradio inclusa no arq
 4. **Uso da Interface:**
    - A interface Gradio será aberta no seu navegador. Você pode carregar um arquivo de áudio e o modelo irá transcrever a fala em texto em tempo real.
 
+### 🎥 Demonstração do Modelo
+
+Veja abaixo um vídeo demonstrando o uso do modelo:
+
+[📹 Demonstração do Modelo](https://link-do-video.com) 
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Linguagem:** Python 3.12.2
