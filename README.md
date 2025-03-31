@@ -26,7 +26,8 @@ Para detalhes sobre o processo de fine-tuning, acesse o relatório completo:
    
 4. **Alternativamente, o modelo treinado esta diponível no Google Drive**
    - O modelo fine-tunado pode ser acessado no Google Drive: 
-   [📥 Download do modelo treinado](https://drive.google.com/file/d/13ACPHxbHNp4P2cWNV13UMULSmk0S9H91/view?usp=sharing)
+   [📥 Download do modelo treinado](https://drive.google.com/file/d/1nr8kc4ih4Gr0lloSW5Y00uO1iajou0ae/view?usp=sharing)
+
 
 ## 🧪 Testando o Modelo
 
