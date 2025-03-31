@@ -25,7 +25,7 @@ Para detalhes sobre o processo de fine-tuning, acesse o relatório completo:
    [🌍 Whisper Small PT-BR no Hugging Face](https://huggingface.co/RodrigoFardin/whisper-small-pt-br)
    
 4. **Alternativamente, o modelo treinado esta diponível no Google Drive**
-   - O modelo fine-tunado pode ser acessado no Goggle Drive: 
+   - O modelo fine-tunado pode ser acessado no Google Drive: 
    [📥 Download do modelo treinado](https://drive.google.com/file/d/13ACPHxbHNp4P2cWNV13UMULSmk0S9H91/view?usp=sharing)
 
 ## 🧪 Testando o Modelo
