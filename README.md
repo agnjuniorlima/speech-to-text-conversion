@@ -81,7 +81,7 @@ Veja abaixo um vídeo demonstrando o uso do modelo:
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
 
 📧 Rodrigo C. Fardin - [rodrigo.correa.fardin@gmail.com](mailto:rodrigo.correa.fardin@gmail.com)  
-📧 Agnelo P. L. Júnior - [agnjuniorlima@gmail.com](mailto:agnjuniorlima@gmail.com)
+📧 Agnelo P. L. Júnior - [agnjuniorlima@gmail.com](mailto:agnjuniorlima@gmail.com)  
 📧 Luiz R. A. de Araujo - [luiz.r.araujo@edu.ufes.br](mailto:luiz.r.araujo@edu.ufes.br)
 
 
