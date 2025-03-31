@@ -56,7 +56,7 @@ Você pode testar o modelo treinado utilizando a interface Gradio inclusa no arq
 
 Veja abaixo um vídeo demonstrando o uso do modelo:
 
-[📹 Demonstração do Modelo]([https://link-do-video.com](https://youtu.be/54hdstBkMGQ)) 
+[📹 Demonstração do Modelo](https://youtu.be/54hdstBkMGQ) 
 
 ## 🛠 Tecnologias Utilizadas
 
